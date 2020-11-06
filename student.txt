@@ -1,0 +1,4 @@
+Student name: Faruk Bikmaz
+Student number: 672913
+Student class: HAINFISD
+URL student GitHub repository: https://github.com/Farukb13/Webmarkup-FarukBikmaz
