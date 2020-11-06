@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: #F2F2F2;
+    font-family: Arial, Helvetica, sans-serif;
+}
